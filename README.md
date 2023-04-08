@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Hussain</h1>
-<h3 align="center">A passionate full-stack web developer (Computer Engineer))</h3>
+<h3 align="center">A passionate full-stack web developer (Computer Engineer)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanhussain07&label=Profile%20views&color=0e75b6&style=flat" alt="adnanhussain07" /> </p>
 
@@ -18,6 +18,8 @@
 - 💬 Ask me about **React, .NET, JS, APIs, Web, DBs**
 
 - 📫 How to reach me **adnanhussain7995@gmail.com**
+
+- ⚡ Fifa -> Code -> Fun -> Do -> Learn -> Grow -> Spread
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
