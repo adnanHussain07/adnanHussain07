@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Retail (POS) [Dakar POS](https://www.dakarpos.com/en/page/home)
+- 🔭 I’m currently working on Retail (POS) [Dakar POS](https://www.buzztill.com/)
 
 - 🌱 I’m currently learning **ML, DAPPS, Cloud**
 
